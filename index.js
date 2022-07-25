@@ -288,7 +288,7 @@ const getUserById = (id) => {
   const user = users.filter((user) => id == user.id);
   return user[0];
 }
-
-app.listen(3000, function () {
+const PORT = process.env.PORT || 3001;
+app.listen(PORT, function () {
   console.log('Example app listening on port 3000!');
 });
