@@ -91,7 +91,7 @@ app.post('/login',jsonParser, function (req, res) {
   const users = getUsers();
   let userLogin = null;
   users.forEach(user => {
-    if ( user.email.toUpperCase() == email.toUpperCase() && password == user.password) {
+    if ( user.email.toUpperCase().trim() == email.toUpperCase().trim() && password == user.password) {
       userLogin = user
     }
   });
