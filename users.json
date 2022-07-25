@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "name": "Juan Pablo3",
+        "lastname ": "Muñoz",
+        "password": "123456789",
+        "email": "juan.mbouchard@gmail.com",
+        "token": "eqdafsrwtg",
+        "victories": "0",
+        "losses": "0"
+    },
+    {
+        "id": "2",
+        "name": "Juan Pablo Andres",
+        "lastname ": "Gacitua",
+        "password": "123456789",
+        "email": "",
+        "token": "dsad213xb213",
+        "victories": "0",
+        "losses": "0"
+    },
+    {
+        "id": "3",
+        "name": "Pablo Elias",
+        "lastname ": "Riquelme",
+        "password": "123456789",
+        "email": "",
+        "token": "bj12b3nj123",
+        "victories": "0",
+        "losses": "0"
+    },
+    {
+        "id": "4",
+        "name": "Alonso Nicolas",
+        "lastname ": "Parra",
+        "password": "123456789",
+        "email": "",
+        "token": "m43mn5kn",
+        "victories": "0",
+        "losses": "0"
+    },
+    {
+        "id": "5",
+        "name": "Victor",
+        "lastname ": "",
+        "password": "123456789",
+        "email": "",
+        "token": "rtyuiokjnbvf",
+        "victories": "0",
+        "losses": "0"
+    },
+    {
+        "id": "6",
+        "name": "Victor2",
+        "lastname ": "",
+        "password": "123456789",
+        "email": "",
+        "token": "rtyuiokjnbvf",
+        "victories": "0",
+        "losses": "0"
+    }
+]
